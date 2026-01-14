@@ -390,7 +390,6 @@ MIT License - see [LICENSE](LICENSE) file for details
 **Mark Meiszterics**
 - MSc Cybersecurity Student
 - Óbuda University
-- Contact: your.email@university.edu
 
 ## 🙏 Acknowledgments
 
